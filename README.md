@@ -430,15 +430,9 @@ Please make sure to write clean code and add tests where applicable.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
-Made with ❤️ using Spring Boot & React
+Made with ME❤️ using Spring Boot & React
 
 ⭐ **Star this repo if you found it helpful!**
 
